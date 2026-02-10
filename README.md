@@ -1,4 +1,4 @@
-<img width="1040" height="584" alt="image" src="https://github.com/user-attachments/assets/82b93329-3280-4c4a-9502-002d2fc59301" />Signal Forge
+Signal Forge
 The Mission: A meta-tool for evolving how humans think and articulate perspective through structural reflection.
 
 🔴 The Problem: Narrative Entropy
