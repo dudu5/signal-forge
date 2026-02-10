@@ -14,4 +14,4 @@ LLM as Reflector: Using AI to mirror back the user's structure, not to generate 
 
 Iterative Evolution: A workspace built for the fluid movement of ideas.
 
-🌐 Part of an emerging ecosystem of tools for consciousness. See also: [Maps of Needs]([url](https://github.com/dudu5/maps-of-needs))
+🌐 Part of an emerging ecosystem of tools for consciousness. See also: [Maps of Needs](https://github.com/dudu5/maps-of-needs)
