@@ -2,13 +2,13 @@ Signal Forge
 The Mission: A meta-tool for evolving how humans think and articulate perspective through structural reflection.
 
 🔴 The Problem: Narrative Entropy
-Most human communication is trapped in "Prose." Words are used to defend, obscure, or rationalize. When we stay in narrative, we cannot see the Structure of our own thinking. We get lost in the "leaves" of the tree and lose sight of the "branches" (logic) and "roots" (needs).
+→ Most human communication is trapped in "Prose." Words are used to defend, obscure, or rationalize. When we stay in narrative, we cannot see the Structure of our own thinking. We get lost in the "leaves" of the tree and lose sight of the "branches" (logic) and "roots" (needs).
 
 🟢 The Solution: The Structural Mirror
-Signal Forge is a desktop-first environment designed to strip away narrative noise. It uses LLMs as a high-fidelity mirror to extract and refine the hierarchical structure of any input.
+→ Signal Forge is a desktop-first environment designed to strip away narrative noise. It uses LLMs as a high-fidelity mirror to extract and refine the hierarchical structure of any input.
 
-🔄 The Two Evolution Loops (The Core Genius)
-Unlike static outliners, Signal Forge operates on two interconnected learning loops:
+🔄 The Two Evolution Loops 
+→ Unlike static outliners, Signal Forge operates on two interconnected learning loops:
 
   L1: Structure Evolution
     Action: Select any node or branch in your hierarchy.
